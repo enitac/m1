@@ -169,8 +169,8 @@
     }
   },
   "locks": {},
-  "passwordEnabled": true,
-  "sneColumnVisible": true,
+  "passwordEnabled": false,
+  "sneColumnVisible": false,
   "setupPassword": "0000",
   "studentPasswords": {}
 }
